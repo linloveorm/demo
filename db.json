@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"first_name": "Pixxxxt",
+	"last_name": "Chuenpxxxxertsuk",
+	"program": "Electronic and Computer Engineering",
+	"cmkl_email": "pxxxxrat@cxxx.th",
+	"student_ID": "109xxx9",
+	"upload_photo": "https://uploads-ssl.webflow.com/5da745a191bf587a2a8d8663/5ee48adee1514f8a908ffc57_CMKL_Logo_Color_Render_2.gif",
+	"contact": [{
+		"phone": "061-394-35xx",
+		"personnal_email": "projexxxxke20@gmail.com",
+		"second_email": "pinyarxxxxxxasertsuk@gmail.com"
+	}],
+	"emergency": [{
+			"firstname": "Axxxit",
+			"lastname": "Saxxxtch",
+			"relationship": "Sxxxsor",
+			"phone": "061-xxxx-3500",
+			"email": "akkaxxxxt@cmkxxx.th"
+		},
+		{
+			"firstname": "xxxxxi",
+			"lastname": "Sangxxxxh",
+			"relationship": "Sxxxvisor",
+			"phone": "061-3xxxx00",
+			"email": "oxxxx@cmkxxxc.th"
+		}
+	],
+	"address": [{
+		"address": "1 Cxxxxxxxxxxxxxxxxxxxg, Bangkok 10xxx",
+		"city": "Bangkok",
+		"state": "",
+		"zip": "10xx0",
+		"country": "Thailand"
+	}]
 }
